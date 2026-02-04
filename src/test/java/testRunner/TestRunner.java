@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-					features= {".//Features/"},
+					features= {".//features/"},
 					//features= {".//Features/Login.feature"},
 					//features= {".//Features/Registration.feature"},
 		
